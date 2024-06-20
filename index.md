@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
 ---
+I’m learning GitHub Pages.
 
-I'm learning GitHub Pages.
